@@ -100,16 +100,6 @@ et `figures/`.
 
 ---
 
-## Remarques
-
-- Les simulations multi-agents sont stochastiques : des fluctuations sont
-  attendues d’une réplication à l’autre.
-- Les paramètres et protocoles suivent strictement les spécifications du sujet.
-- Le projet met en évidence la complémentarité entre modèles déterministes
-  moyens et modèles stochastiques individu-centrés.
-
----
-
 ## Auteur =>
 
 Projet réalisé par **Adel Bouzidi**  
